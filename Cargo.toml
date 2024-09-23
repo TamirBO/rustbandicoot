@@ -1,0 +1,2 @@
+[workspace]
+members = ["ps", "debugger", "disassembler"]

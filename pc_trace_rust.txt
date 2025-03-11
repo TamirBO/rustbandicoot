@@ -1,0 +1,5 @@
+
+------ EXECUTION SUMMARY ------
+Instructions executed until target: 1000000
+Instructions recorded after target: 0
+Unique PC addresses visited after target: 0

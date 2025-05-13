@@ -67,6 +67,3 @@ cargo run --release --bin debugger
 ## License
 
 Licensed under the MIT License.
-
-```
-```

@@ -1,6 +1,7 @@
 /target
 /dumps
 /binaries
+/docs
 /.vscode
 pc_trace.txt
 pc_trace_rust.txt

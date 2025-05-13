@@ -1,0 +1,19 @@
+[package]
+name = "debugger"
+version = "0.1.0"
+edition = "2024"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ps = {path = "../ps"}
+disassembler = {path = "../disassembler"}
+imgui = "0.12.0"
+glium = { version = "0.34.0", default-features = false, features = ["glutin_backend"] }
+imgui-winit-support = "0.12.0"
+imgui-glium-renderer = "0.12.0"
+glutin = "0.31.1"
+glutin-winit = "0.4.2"
+winit = { version = "0.29.3", features = ["rwh_05"] }
+raw-window-handle = "0.5.0"
